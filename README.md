@@ -1,3 +1,10 @@
+## Company: Codetech IT solutions
+## Name:Ramshan Safrin M R J
+## Intern Id: CTIS0337
+## Domain:Frontend 
+## Duration: 4 weeks
+## Mentor:Neela Santhosh
+
 # Personal Portfolio Website
 
 This is my personal portfolio website created as part of my frontend development internship.
